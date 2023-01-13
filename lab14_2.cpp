@@ -21,3 +21,11 @@ int main()
     }while(s != 0 || x != 0 || y != 0);
     return 0;
 }
+
+void updateImage(bool [][M],int,int,int){
+
+}
+
+void showImage(const bool [][M]){
+
+}
